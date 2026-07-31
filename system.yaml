@@ -1,0 +1,26 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: card
+  title: Card System
+  description: Hệ thống quản lý thẻ và thanh toán thẻ
+spec:
+  owner: group:default/kieu-hoi-tt-bien-mau
+ ---
+ apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ebanking
+  title: Agribank eBanking
+  description: Hệ thống Agribank eBanking (Web và App)
+spec:
+  owner: group:default/agribank-ebanking
+ ---
+ apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: ai
+  title: Artificial Intelligence
+  description: Hệ thống phát triển bằng AI
+spec:
+  owner: group:default/ai
