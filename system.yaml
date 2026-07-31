@@ -7,7 +7,7 @@ metadata:
 spec:
   owner: group:default/kieu-hoi-tt-bien-mau
 ---
- apiVersion: backstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: ebanking
@@ -16,7 +16,7 @@ metadata:
 spec:
   owner: group:default/agribank-ebanking
 ---
- apiVersion: backstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: ai
